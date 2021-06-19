@@ -10,5 +10,5 @@
 
 ## Geography
 ### Chapter- 1, Resources and Development
-* [Explanation](https://www.youtube.com/watch?v=yUXNJLLoUVY&t=10s)
+* [Explanation](https://www.youtube.com/watch?v=Z0trqPx36H4&t=106s)
 * [Notes](https://github.com/aniketrepo/social-science/blob/main/civics.power-sharing.md)
