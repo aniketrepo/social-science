@@ -4,7 +4,7 @@ Classification of Resources:
 1.  On the basis of origin: Biotic and Abiotic.
 2.  On the basis of exhaustibility: Renewable and Non-renewable.
 3.  On the basis of ownership: Individual (Personal), Community, National and International.
-4 . On the basis of status and development: Potential, Developed, Reserve and Stock.
+4. On the basis of status and development: Potential, Developed, Reserve and Stock.
 * Biotic Resources are obtained from the biosphere. They have life or are living resources, e.g., human beings, fisheries, forests, etc.
 * Abiotic Resources include all non-living things, e.g., rocks and minerals.
 
