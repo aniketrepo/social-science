@@ -41,7 +41,7 @@ The denudation of the soil cover and subsequent washing down is soil erosion. Re
 1. Gully erosion. The running water cuts through the clayey soils and makes deep channels known as gullies. This makes the land bad land and in the Chambal basin such land is known as ravines;
 2. Sheet erosion. When top soil over large area is washed away it is known as sheet erosion.
 
-##Methods to prevent soil erosion in hilly area:
+## Methods to prevent soil erosion in hilly area:
 Ploughing along the contour lines-contour ploughing; terrace cultivation; strip farming and shelter belts.
 
 ## Soils and its types:
