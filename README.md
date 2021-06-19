@@ -1,5 +1,5 @@
 ## History
-### Chapter-1, Nationalism in Europe
+### Chapter- 1, Nationalism in Europe
 * [Explantion](https://www.youtube.com/watch?v=RDbqpAm0zxY&t=3034s) 
 * [Notes](https://github.com/aniketrepo/social-science/blob/main/history.rise-of-nationalism-in-europe.md)
 
