@@ -14,4 +14,5 @@
 * [Notes](https://github.com/aniketrepo/social-science/blob/main/geography.resources-and-development.md)
 
 ## Revision
-* [Mock Test 1](https://github.com/aniketrepo/social-science/blob/main/mock-test-1.md), [Answers](https://github.com/aniketrepo/social-science/blob/main/mock-test-1-answers.md)
+### [Mock Test 1](https://github.com/aniketrepo/social-science/blob/main/mock-test-1.md)
+* [Answers](https://github.com/aniketrepo/social-science/blob/main/mock-test-1-answers.md)
