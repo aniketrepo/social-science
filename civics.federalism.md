@@ -45,3 +45,25 @@
 9. *What about the subjects that do not fall in any of the three lists?*
 
 -> According to our constitution the Union Government has the power to legeslate on these 'residuary' subjects.
+
+10. Different routes to federalism:
+* The First Route - Coming Together federations, USA, Switzerland, Australia
+* The Second Route - Holding together federations, India, Spain, Belgium
+
+11. The First Route:
+* Coming together federation involves independent states coming together on their own to form a bigger unit, so that by pooling sovereignty (holding a supereme, indipendent authority over a region or state) and retaining identity they can increase their security.
+* This type of 'coming together' federations include USA, Switzerland and Australia.
+* In this first category of federations, all the constituent states usually have equal power.
+
+12. The Second Route:
+* Holding together federations where a large country decides to divide its power between the constituent States and the national government.
+* In this second category, the national government tends to be more powerful.
+* Very often different constituent units of federation have unequal powers.
+
+13. *How is federalism practiced?*
+
+-> Democratic politics in our country ensured that the spirit of federalism, respect for diversity and desire for living together became a shared ideal in our country. Let us look at some of the major ways in which this happend:
+* Linguistic States- The creation of linguistic states was the first and the major test for the democratics politics in our country. This was done to ensure that people who spoke the same language lived in the same state. Some states were created not on the basis of language but to recognise the differences based on culture, ethnicity or geography. For e.g. Nagaland, Uttarakhand and Jharkhand.
+* Language Policy- A second test for Indian federation is the language policy. Our constitution did not give the status of national language to any one language. Hindi was identified as the national language. But, Hindi is only the mother tongue of only about 40% of Indians. Therefore, there were many safeguards to protect other languages. Besides Hindi, there are 21 other languages recognised as Scheduled Languages by the constitution. Hindi was not imposed on non-Hindi areas for most of the period after independence.
+* Center-State Relations- Restructing the centre-state relations is one more way in which federalism has been strengthend in practice.
+
