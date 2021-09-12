@@ -13,6 +13,3 @@
 * [Notes](https://github.com/aniketrepo/social-science/blob/main/geography.resources-and-development.md)
 * [Explanation](https://www.youtube.com/watch?v=Z0trqPx36H4&t=106s)
 
-## Revision
-1. ### [Mock Test 1](https://github.com/aniketrepo/social-science/blob/main/mock-test-1.md)
-* [Answers](https://github.com/aniketrepo/social-science/blob/main/mock-test-1-answers.md)
