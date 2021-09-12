@@ -11,6 +11,6 @@
 * [Notes](https://github.com/aniketrepo/social-science/blob/main/geography.resources-and-development.md)
 
 ### Chapter- 3, Water Resources
-* [Notes]()
+* [Notes](https://github.com/aniketrepo/social-science/blob/main/geography.water-resources.md)
 
 
