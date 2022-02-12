@@ -68,4 +68,35 @@ i. Formal Sector Loans-
 * Banks have to submit information to the RBI on how much they are lending, to whom, at what rate of interest, etc.
 
 ii. Informal Sector Loans-
-* The formal sector only meets half of the total credit 
+* The formal sector only meets half of the total credit of rural people.
+* The remaining credit needs are met from informal sector.
+* There is no one to stop them from using unfair means to get their money back.
+
+33. Cheap and affordable credit is crucial for the country's development.
+
+34. While formal sector meets only about half of the total credit needs of the rural people. The remaining credit needs are met from informal resources.
+
+35. It is necessary that banks and cooperatives increse their lending particularly in the rural areas, so that the dependence on informal sources of credit reduces.
+
+36. While formal sector loans need to expand, it is also necessary that everyone recieves these loans.
+
+37. It is important that the formal credit is distributed more equally so that the poor can benifit from the cheaper loans.
+
+38. Self Help Groups for the poor-
+
+i. Poor Households are still dependent on informal sources of credit because of the following reasons-
+* Banks are not present everywhere in India.
+* Even if banks are present, getting a loan from a bank is difficult as it requires proper documents and collateral.
+
+ii. To overcome these problems, people created Self Help Groups (SHGs).
+
+iii. SHGs are a small group of poor people which promote small savings among their members.
+
+iv. A typcal SHG has 15-20 members, usually belonging to one neighbourhood, who meet and save regularly.
+
+v. Advantages of SHG's-
+* It helps the borrower to overcome the problem of lack of collateral.
+* People can get timely loans for a variety of purposes at a reasonable interest rate.
+* SHG's are the building blocks of organisation of the rural poor.
+* It helps women to become financially self-reliant.
+* The regular meetings of the group provides a platform to discuss and act on a variety of social issues such as health nutrition, domestic violence etc.
