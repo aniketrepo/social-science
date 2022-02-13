@@ -28,7 +28,8 @@ Having assured themselves of these conditions, MNCs setup factories and offices 
 * Another way in which MNCs control production-
      * Large MNCs place their orders for production with small producers & sell them under their brand name.
      * These MNCs have tremendous powers to determine price, quality, delivery, & labour conditions for these distant producers.
-* **Conclusion**
+
+* Conclusion
      * MNCs are exerting a strong influence on production at these distant locations.
      * Result- production in these widely dispersed locations is getting interlinked.
 
@@ -37,11 +38,13 @@ Having assured themselves of these conditions, MNCs setup factories and offices 
 * Basic functions of foreign trade-
      * Provides vast market to producers.
      * For buyers, import of goods produced in another country is one way of expanding the choice of goods.
-* **Conclusion**
+
+* Conclusion
      * With the opening of trade, goods travel from one market to another.
      * Choice of goods in the market increases.
      * Prices of similar goods in two markets tend to become equal.
      * Increased competition between producers of two different counteries.
+
 * Foreign trade thus results in connecting the markets or integration of markets in different countries.
 
 8. What is Globalisation?
