@@ -42,3 +42,13 @@ Having assured themselves of these conditions, MNCs setup factories and offices 
      * Choice of goods in the market increases.
      * Prices of similar goods in two markets tend to become equal.
      * Increased competition between producers of two different counteries.
+* Foreign trade thus results in connecting the markets or integration of markets in different countries.
+
+8. What is Globalisation?
+* It is the process of rapid integration or interconnection between countries.
+* MNCs play a major role in the globalisation process.
+* More & more goods and services, investments & technology are moving between countries.
+* Large part of foreign trade controled by MNCs.
+* Result- greater integration of production & markets across counteries.
+* Their is another way in which countries can be connected. This is through movement of people. However due to various restrictions there has not been much increase in the movement of people between counteries.
+
